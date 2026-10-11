@@ -1,0 +1,10 @@
+---
+title: "CITI Training Certificate"
+author: "Wenting Jiang"
+date: "October 11, 2026"
+format: html
+---
+
+## CITI Training Certificate
+
+![CITI Human Research Certificate](certificate.png)
